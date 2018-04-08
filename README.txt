@@ -1,0 +1,1 @@
+ÖNEMLI: kodun çalismasi için resminizi 'image.jpg' olarak kodun bulundugu dosyaya eklemelisiniz
